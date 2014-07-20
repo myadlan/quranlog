@@ -17,7 +17,7 @@
 	<preference name="permissions" value="none"/>
 	
 	<!-- the default icon to be use, for BlackBerry must be less than 16kb -->
-	<icon src="apple-touch-icon-120x120.png" />
+	<icon src="icon.png" />
 
 	<!-- the default splash screen to use -->
 	<!-- iOS -->
